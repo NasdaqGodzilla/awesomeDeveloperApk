@@ -21,4 +21,5 @@ Some useful apks for developers. 一些对开发者有用的apk.
 | [ListAllAppName](https://github.com/NasdaqGodzilla/awesomeDeveloperApk/blob/main/listAllAppName.apk) | List app name of installed package |
 | [onTouchDebug](https://github.com/NasdaqGodzilla/awesomeDeveloperApk/blob/main/onTouch_app-debug.apk) | onTouch event debug |
 | [KDE Connect](https://github.com/NasdaqGodzilla/awesomeDeveloperApk/blob/main/org.kde.kdeconnect_tp_11910.apk) | |
+| [oaid_sdk_1.0.29_demo](https://github.com/NasdaqGodzilla/awesomeDeveloperApk/blob/main/oaid_sdk_1.0.29_demo.apk) | Read OAID, AAID, VAID. SDK offical demo. |
 
