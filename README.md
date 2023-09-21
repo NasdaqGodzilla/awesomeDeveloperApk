@@ -26,4 +26,5 @@ Some useful apks for developers. 一些对开发者有用的apk.
 | [hookui1.5_simple_1精简版不带ui分析和frida](https://github.com/NasdaqGodzilla/awesomeDeveloperApk/blob/main/hookui1.5_simple_1%E7%B2%BE%E7%AE%80%E7%89%88%E4%B8%8D%E5%B8%A6ui%E5%88%86%E6%9E%90%E5%92%8Cfrida.apk) | hookui1.5_simple_1精简版不带ui分析和frida |
 | [SafeCheck](https://github.com/NasdaqGodzilla/awesomeDeveloperApk/blob/main/SafeCheck-1.16.5-1165-release_2023-03.apk) | Check if the Android environment is safe |
 | [AndroidHttpCapture](https://github.com/NasdaqGodzilla/awesomeDeveloperApk/blob/main/AndroidHttpCapture.apk) | Capture HTTP data on Android |
+| [App特征库检测](https://github.com/NasdaqGodzilla/awesomeDeveloperApk/blob/main/App%E7%89%B9%E5%BE%81%E5%BA%93%E6%A3%80%E6%B5%8B_com.oF2pks.classyshark3xodus_32.apk) | |
 
