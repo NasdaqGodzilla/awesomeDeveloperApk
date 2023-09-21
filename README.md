@@ -27,4 +27,5 @@ Some useful apks for developers. 一些对开发者有用的apk.
 | [SafeCheck](https://github.com/NasdaqGodzilla/awesomeDeveloperApk/blob/main/SafeCheck-1.16.5-1165-release_2023-03.apk) | Check if the Android environment is safe |
 | [AndroidHttpCapture](https://github.com/NasdaqGodzilla/awesomeDeveloperApk/blob/main/AndroidHttpCapture.apk) | Capture HTTP data on Android |
 | [App特征库检测](https://github.com/NasdaqGodzilla/awesomeDeveloperApk/blob/main/App%E7%89%B9%E5%BE%81%E5%BA%93%E6%A3%80%E6%B5%8B_com.oF2pks.classyshark3xodus_32.apk) | |
+| [数据流量跟踪](https://github.com/NasdaqGodzilla/awesomeDeveloperApk/blob/main/TrackerControl-githubRelease-latest.apk) | 通过VPN跟踪Android网络流量流向 |
 
