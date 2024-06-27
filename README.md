@@ -28,4 +28,9 @@ Some useful apks for developers. 一些对开发者有用的apk.
 | [AndroidHttpCapture](https://github.com/NasdaqGodzilla/awesomeDeveloperApk/blob/main/AndroidHttpCapture.apk) | Capture HTTP data on Android |
 | [App特征库检测](https://github.com/NasdaqGodzilla/awesomeDeveloperApk/blob/main/App%E7%89%B9%E5%BE%81%E5%BA%93%E6%A3%80%E6%B5%8B_com.oF2pks.classyshark3xodus_32.apk) | |
 | [数据流量跟踪](https://github.com/NasdaqGodzilla/awesomeDeveloperApk/blob/main/TrackerControl-githubRelease-latest.apk) | 通过VPN跟踪Android网络流量流向 |
+| [TrackerControl](https://github.com/NasdaqGodzilla/awesomeDeveloperApk/blob/main/TrackerControl-githubRelease-latest.apk) | |
+| [FDex2](https://github.com/NasdaqGodzilla/awesomeDeveloperApk/blob/main/FDex2.apk) | |
+| [Root检测](https://github.com/NasdaqGodzilla/awesomeDeveloperApk/blob/main/RootandSafetyNetChecker1.4.apk) | |
+| [内存填充](https://github.com/NasdaqGodzilla/awesomeDeveloperApk/blob/main/AutoFill_Multi_1.2.apk) | 填充运行内存 |
+| [Skynet CPU Throtting Test](https://github.com/NasdaqGodzilla/awesomeDeveloperApk/blob/main/skynet-cputhrottlingtest.apk) | 跑满CPU，记录CPU使用率、频率和温度 |
 
