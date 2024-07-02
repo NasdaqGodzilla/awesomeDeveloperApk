@@ -33,4 +33,7 @@ Some useful apks for developers. 一些对开发者有用的apk.
 | [Root检测](https://github.com/NasdaqGodzilla/awesomeDeveloperApk/blob/main/RootandSafetyNetChecker1.4.apk) | |
 | [内存填充](https://github.com/NasdaqGodzilla/awesomeDeveloperApk/blob/main/AutoFill_Multi_1.2.apk) | 填充运行内存 |
 | [Skynet CPU Throtting Test](https://github.com/NasdaqGodzilla/awesomeDeveloperApk/blob/main/skynet-cputhrottlingtest.apk) | 跑满CPU，记录CPU使用率、频率和温度 |
+| [usbcam_good_110_5fa0e6fcb978230f7a1a3aafb8ab8374](https://github.com/NasdaqGodzilla/awesomeDeveloperApk/blob/main/usbcam_good_110_5fa0e6fcb978230f7a1a3aafb8ab8374.apk) | |
+| [usbcamera.apk](https://github.com/NasdaqGodzilla/awesomeDeveloperApk/blob/main/usbcamera.apk) | |
+| [usb摄像头无广告版v10.3.7](https://github.com/NasdaqGodzilla/awesomeDeveloperApk/blob/main/usb%E6%91%84%E5%83%8F%E5%A4%B4%E6%97%A0%E5%B9%BF%E5%91%8A%E7%89%88v10.3.7.apk) | |
 
