@@ -7,6 +7,7 @@ Some useful apks for developers. 一些对开发者有用的apk.
 | [ActivityLauncher](https://github.com/NasdaqGodzilla/awesomeDeveloperApk/blob/main/ActivityLauncher.apk) | List and start all activities |
 | [AndroBench V5.0.1](https://github.com/NasdaqGodzilla/awesomeDeveloperApk/blob/main/AndrobenchStorageBenchmark_v5.0.1.apk) | IO Benchmark |
 | [BlackDex32_3.2.0](https://github.com/NasdaqGodzilla/awesomeDeveloperApk/blob/main/BlackDex32_3.2.0.apk) | Blackdex |
+| [BlackDex64_3.2.0](https://github.com/NasdaqGodzilla/awesomeDeveloperApk/blob/main/BlackDex64_3.2.0.apk) | BlackDex |
 | [CPUDeviceInfo](https://github.com/NasdaqGodzilla/awesomeDeveloperApk/blob/main/CPUDeviceInfo.apk) | |
 | [NetTools](https://github.com/NasdaqGodzilla/awesomeDeveloperApk/blob/main/NetTools-com.ulfdittmer.android.ping_3.8.4.apk) | |
 | [PacketCaptureV1.0.3](https://github.com/NasdaqGodzilla/awesomeDeveloperApk/blob/main/PacketCapturePro_v1.0.3.apk) | 抓包精灵 |
@@ -36,4 +37,3 @@ Some useful apks for developers. 一些对开发者有用的apk.
 | [usbcam_good_110_5fa0e6fcb978230f7a1a3aafb8ab8374](https://github.com/NasdaqGodzilla/awesomeDeveloperApk/blob/main/usbcam_good_110_5fa0e6fcb978230f7a1a3aafb8ab8374.apk) | |
 | [usbcamera.apk](https://github.com/NasdaqGodzilla/awesomeDeveloperApk/blob/main/usbcamera.apk) | |
 | [usb摄像头无广告版v10.3.7](https://github.com/NasdaqGodzilla/awesomeDeveloperApk/blob/main/usb%E6%91%84%E5%83%8F%E5%A4%B4%E6%97%A0%E5%B9%BF%E5%91%8A%E7%89%88v10.3.7.apk) | |
-
