@@ -37,3 +37,4 @@ Some useful apks for developers. 一些对开发者有用的apk.
 | [usbcam_good_110_5fa0e6fcb978230f7a1a3aafb8ab8374](https://github.com/NasdaqGodzilla/awesomeDeveloperApk/blob/main/usbcam_good_110_5fa0e6fcb978230f7a1a3aafb8ab8374.apk) | |
 | [usbcamera.apk](https://github.com/NasdaqGodzilla/awesomeDeveloperApk/blob/main/usbcamera.apk) | |
 | [usb摄像头无广告版v10.3.7](https://github.com/NasdaqGodzilla/awesomeDeveloperApk/blob/main/usb%E6%91%84%E5%83%8F%E5%A4%B4%E6%97%A0%E5%B9%BF%E5%91%8A%E7%89%88v10.3.7.apk) | |
+| [Clinometer-1.2.4.apk](https://github.com/NasdaqGodzilla/awesomeDeveloperApk/blob/main/Clinometer-1.2.4.apk) | 根据G-Sensor XYZ值计算出实际旋转角度 |
